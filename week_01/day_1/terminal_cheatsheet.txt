@@ -1,0 +1,34 @@
+UNIX commands
+
+ls - list
+
+-a  = show hidden files
+-f  = files
+
+man = show manual
+
+tree = show tree
+
+clear (comm K) - clear screen
+
+rm - delete
+
+rm -r delete dir 
+rmdir = remove dir 
+
+cd = change directory
+
+touch = create file 
+
+code = open file for editing 
+
+cd = to home dir 
+
+cd .. = up directory
+
+pwd = print working directory
+
+mv = move file or rename
+
+cp = copy file
+
